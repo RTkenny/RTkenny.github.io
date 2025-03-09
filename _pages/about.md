@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Welcome to my personal website! I am a second-year Ph.D. student at the Guanghua School of Management, Peking University, with a research focus on BP-free training paradigms, reinforcement learning, and optimization. My work explores novel learning frameworks that move beyond backpropagation, aiming for more efficient and scalable AI training methods.
+
+I hold dual bachelor’s degrees in Mechanical Engineering and Artificial Intelligence from Harbin Institute of Technology. With a strong engineering background, I am passionate about combining theoretical analysis with practical engineering to develop new learning paradigms and optimize AI-driven decision-making for real-world applications.
 
