@@ -11,24 +11,54 @@ Welcome to my personal website! I am a second-year Ph.D. student at the [Guanghu
 
 I hold dual bachelor’s degrees in Mechanical Engineering and Artificial Intelligence from Harbin Institute of Technology in 2023. With a strong engineering background, I am passionate about combining theoretical analysis with practical engineering to develop new learning paradigms and optimize AI-driven decision-making for real-world applications. Feel free to contact me at [rtkenny@stu.pku.edu.cn](mailto:rtkenny@stu.pku.edu.cn).
 
-## Pubilication
+## Pubilications
 
-**Zeroth-order Informed Fine-Tuning for Diffusion Model: A Recursive Likelihood Ratio Optimizer**  
-> We propose a recursive likelihood ratio method for fine-tuning diffusion models in a zeroth-order informed manner, improving sample efficiency and generalization across reward landscapes.
+<div class="about-pub-item" markdown="1">
 
-**Tao Ren**, Zishi Zhang, Zehao Li, Jingyang Jiang, Shentao Qin, Guanghao Li, Yan Li, Yi Zheng, Xinping Li, Min Zhan, Yijie Peng.
-*arXiv preprint* [arXiv:2502.00639](https://arxiv.org/abs/2502.00639), 2025  
-🔗 [PDF](https://arxiv.org/pdf/2502.00639)
+**Half-order Fine-Tuning for Diffusion Model: A Recursive Likelihood Ratio Optimizer**  
+> We propose the Recursive Likelihood Ratio (RLR) optimizer, a Half-Order fine-tuning paradigm for diffusion models that yields an unbiased, low-variance gradient estimator and significantly improves alignment efficiency for downstream tasks.
 
+**Tao Ren**, Zishi Zhang, Zehao Li, Jingyang Jiang, Shentao Qin, Guanghao Li, Yan Li, Yi Zheng, Xinping Li, Min Zhan, Yijie Peng.  
+**ICLR 2026 Oral** *[paper link 🔗](https://arxiv.org/abs/2502.00639)*  
 
+</div>
 
+<div class="about-pub-item" markdown="1">
+
+**RiskPO: Risk-based Policy Optimization via Verifiable Reward for LLM Post-Training**  
+> We propose RiskPO, a risk-based policy optimization framework for LLM post-training that replaces mean-based objectives with principled risk measures, alleviating entropy collapse and significantly improving reasoning performance.
+
+**Tao Ren**, Jinyang Jiang, Hui Yang, Wan Tian, Minhao Zou, Guanghao Li, Zishi Zhang, Qinghao Wang, Shentao Qin, Yanjun Zhao, Rui Tao, Hui Shao, Yijie Peng.  
+**ICLR 2026** *[paper link 🔗](https://arxiv.org/abs/2510.00911)*  
+
+</div>
+
+<div class="about-pub-item" markdown="1">
 
 **FLOPS: Forward Learning with OPtimal Sampling**  
 > We introduce FLOPS, a forward learning algorithm with optimal sampling strategies to enhance training efficiency in simulation-based models.
 
-Published in ICLR 2025
+**Tao Ren**, Zishi Zhang, Jinyang Jiang, Guanghao Li, Zeliang Zhang, Mingqian Feng, Yijie Peng.  
+**ICLR 2025** *[paper link 🔗](https://arxiv.org/abs/2410.05966)*  
 
-**Tao Ren**, Zishi Zhang, Jinyang Jiang, Guanghao Li, Zeliang Zhang, Mingqian Feng, Yijie Peng.
-*arXiv preprint* [arXiv:2410.05966](https://arxiv.org/abs/2410.05966), 2024  
-🔗 [PDF](https://arxiv.org/pdf/2410.05966)
+</div>
 
+<div class="about-pub-item" markdown="1">
+
+**Riskminer: Discovering Formulaic Alphas via Risk Seeking Monte Carlo Tree Search**  
+> We propose Riskminer, an alpha-mining framework that formulates formulaic alpha discovery as a reward-dense MDP and solves it via risk-seeking Monte Carlo Tree Search, jointly improving exploration and the synergistic performance of alpha collections.
+
+**Tao Ren**, Ruihan Zhou, Jinyang Jiang, Jiafeng Liang, Qinghao Wang, Yijie Peng.  
+**ICAIF 2024** *[paper link 🔗](https://dl.acm.org/doi/abs/10.1145/3677052.3698613)*  
+
+</div>
+
+<div class="about-pub-item" markdown="1">
+
+**SCOUT: Teaching Pre-trained Language Models to Enhance Reasoning via Flow Chain-of-Thought**  
+> We propose SCOUT, a lightweight Flow Chain-of-Thought fine-tuning framework that enables progressively deeper iterative reasoning in pre-trained language models without costly pretraining or manual CoT supervision.
+
+Guanghao Li, Wenhao Jiang, Mingfeng Chen, Yan Li, Hao Yu, Shuting Dong, **Tao Ren**, Ming Tang, Chun Yuan.  
+**NeurIPS 2025** *[paper link 🔗](https://arxiv.org/abs/2505.24181)*  
+
+</div>
