@@ -7,11 +7,59 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website! I am a second-year Ph.D. student at the [Guanghua School of Management, Peking University](https://www.gsm.pku.edu.cn/). My superviser is Professer [Yijie Peng](https://www.gsm.pku.edu.cn/faculty/pengyijie/). I focus on BP-free training paradigms, reinforcement learning, and optimization. My work explores novel learning frameworks that move beyond backpropagation, aiming for more efficient and scalable AI training methods. I also have great interest in quantitivate finance.
+Welcome to my personal website! I am a Ph.D. student at the [Guanghua School of Management, Peking University](https://www.gsm.pku.edu.cn/). My superviser is Professer [Yijie Peng](https://www.gsm.pku.edu.cn/faculty/pengyijie/). I focus on BP-free training paradigms, reinforcement learning, and optimization. My work explores novel learning frameworks that move beyond backpropagation, aiming for more efficient and scalable AI training methods.
 
 I hold dual bachelor’s degrees in Mechanical Engineering and Artificial Intelligence from Harbin Institute of Technology in 2023. With a strong engineering background, I am passionate about combining theoretical analysis with practical engineering to develop new learning paradigms and optimize AI-driven decision-making for real-world applications. Feel free to contact me at [rtkenny@stu.pku.edu.cn](mailto:rtkenny@stu.pku.edu.cn).
 
-## Pubilications
+## Education
+
+<div class="about-pub-item" markdown="1">
+
+**Peking University**  
+Ph.D. in Operations Research, Guanghua School of Management / Institute for Artificial Intelligence  
+2023.09 - Present  
+Advisor: Professor [Yijie Peng](https://www.gsm.pku.edu.cn/faculty/pengyijie/)
+
+</div>
+
+<div class="about-pub-item" markdown="1">
+
+**Harbin Institute of Technology**  
+Dual Bachelor's Degrees in Mechanical Engineering and Artificial Intelligence  
+2019.09 - 2023.06
+
+</div>
+
+## Internship Experience
+
+<div class="about-pub-item" markdown="1">
+
+**Ubiquant iQuest, Post-Training Team**  
+Agentic RL Intern  
+2026.06 - Present  
+Scaling agentic RL systems, including auto-research, search, and code agents.
+
+</div>
+
+<div class="about-pub-item" markdown="1">
+
+**Tongyi Lab, Qwen-Character Team**  
+Self-Evolving Agent Intern  
+2025.12 - 2026.05  
+Worked on test-time training methods that internalize agent memory into model parameters.
+
+</div>
+
+<div class="about-pub-item" markdown="1">
+
+**Tsinghua AIR / Guangxiang Technology Joint Lab**  
+Embodied Intelligence VLA Research Intern  
+2025.03 - 2025.11   
+Worked on training diffusion-based VLA with Gaussian Splatting and egocentric data.
+
+</div>
+
+## Publications
 
 <div class="about-pub-item" markdown="1">
 
@@ -20,6 +68,16 @@ I hold dual bachelor’s degrees in Mechanical Engineering and Artificial Intell
 
 **Tao Ren**, Zishi Zhang, Zehao Li, Jingyang Jiang, Shentao Qin, Guanghao Li, Yan Li, Yi Zheng, Xinping Li, Min Zhan, Yijie Peng.  
 **ICLR 2026 Oral** *[paper link 🔗](https://arxiv.org/abs/2502.00639)*  
+
+</div>
+
+<div class="about-pub-item" markdown="1">
+
+**OVLR: Efficient and Robust Training via Output-Level Variance-Reduced Likelihood Ratio**  
+> We propose the Output-Level Variance-Reduced Likelihood Ratio (OVLR) framework, which injects structured symmetric noise to reduce gradient variance and directly optimize non-differentiable objectives such as 0-1 loss and truncated loss.
+
+Zishi Zhang, **Tao Ren**, Jingyang Jiang, Guanghao Li, Yijie Peng.  
+**ICML 2026**  *[paper link 🔗](https://icml.cc/virtual/2026/poster/64062)*
 
 </div>
 
